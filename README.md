@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist oho/yii2-blog "*"
+composer require --prefer-dist charin2559/yii2-blog "*" 
 ```
 
 or add
