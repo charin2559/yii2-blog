@@ -1,5 +1,5 @@
 {
-    "name": "charin2559/yii2-blog",
+    "name": "oho60/yii2-blog",
     "description": "Yii2 Blog for other application",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","blog"],
@@ -18,11 +18,7 @@
         "psr-4": {
             "oho\\blog\\": ""
         }
-    },
-  "repositories":[
-    {
-        "type": "git",
-        "url": "https://github.com/charin2559/yii2-blog.git"
     }
+
 ]
 }
