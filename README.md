@@ -12,7 +12,7 @@ composer require --prefer-dist oho60/yii2-blog  "dev-master"
 or add
 
 ```
-"oho/yii2-blog": "*"
+"oho60/yii2-blog": "*"
 ```
 
 to the require section of your `composer.json` file.
