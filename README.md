@@ -24,4 +24,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \oho\blog\AutoloadExample::widget(); ?>```
+<?= \oho60\blog\AutoloadExample::widget(); ?>```
