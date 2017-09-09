@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "oho/yii2-blog": "*"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
