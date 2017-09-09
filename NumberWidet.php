@@ -1,7 +1,7 @@
 <?php
 
 
-namespace oho60\number;
+namespace oho60\blog;
 
  /* @common
  'components' => [
