@@ -18,5 +18,11 @@
         "psr-4": {
             "oho\\blog\\": ""
         }
+    },
+  "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/charin2559/yii2-blog.git"
     }
+]
 }
