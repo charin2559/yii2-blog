@@ -1,5 +1,5 @@
 {
-    "name": "oho60/yii2-blog",
+    "name": "oho/yii2-blog",
     "description": "Yii2 Blog for other application",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","blog"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "oho60\\blog\\": ""
+            "oho\\blog\\": ""
         }
     }
 
