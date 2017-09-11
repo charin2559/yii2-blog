@@ -1,6 +1,6 @@
 <?php
 
-namespace oho60\blog;
+namespace oho\blog;
 
 /**
  * This is just an example.
